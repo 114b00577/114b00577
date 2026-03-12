@@ -3,6 +3,7 @@
 - 🤔 I like running and simple workouts.
 - ⚡ I like traveling and exploring new places.
 - 📫 How to reach me:114b00577@mailst.cjcu.edu.tw
+- 📲https://www.instagram.com/atc_future?igsh=c3V1MGtkMGhsamcy
 -  ![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=114B00577&show_icons=true&theme=radical)
 <!--
