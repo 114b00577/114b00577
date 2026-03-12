@@ -1,7 +1,7 @@
 ## Hi I am Joyce👋
-- 🌱 I enjoy playing sports,especially football.
-- 🤔 I like running and simple workouts.
-- ⚡ I like traveling and exploring new places.
+- ⚽️ I enjoy playing sports,especially football.
+- 🏃‍♀️‍➡️ I like running and simple workouts.
+- 🌍 I like traveling and exploring new places.
 - 📫 E-mail:114b00577@mailst.cjcu.edu.tw
 -  ![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=114B00577&show_icons=true&theme=radical)
