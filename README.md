@@ -3,6 +3,9 @@
 - 🤔 I like running and simple workouts.
 - ⚡ I like traveling and exploring new places.
 - 📫 How to reach me:114b00577@mailst.cjcu.edu.tw
+-  ![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=你的帳
+號&show_icons=true&theme=radical)
 <!--
 **114b00577/114b00577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
